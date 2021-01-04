@@ -8,4 +8,3 @@ About Me:
 - 📫 I'd love to connect! Please email me at r3dalal@uwaterloo.ca or connect with me on linkedln, https://www.linkedin.com/in/richa-dalal-979a121b0/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love travelling
--->

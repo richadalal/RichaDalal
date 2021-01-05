@@ -8,3 +8,5 @@ About Me:
 - 📫 I'd love to connect! Please email me at r3dalal@uwaterloo.ca or connect with me on linkedln, https://www.linkedin.com/in/richadalal.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love travelling
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />

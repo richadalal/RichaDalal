@@ -10,3 +10,4 @@ About Me:
 - ⚡ Fun fact: I love travelling
 
 [![Richa's github stats](https://github-readme-stats.vercel.app/api?username=richadalal)](https://github.com/richadalal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richadalal&layout=compact)](https://github.com/richadalal/github-readme-stats)

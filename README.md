@@ -9,3 +9,4 @@ About Me:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love travelling
 
+[![Richa's github stats](https://github-readme-stats.vercel.app/api?username=richadalal)](https://github.com/richadalal/github-readme-stats)

@@ -4,7 +4,7 @@ About Me:
 
 - 📚 Second-year Computer Science Student at the University of Waterloo actively looking for co-op opportunities for Spring 2022
 - 🔭 Previously, I worked at FleetOperate as a software developer and product manager. 
-- 🌱 I’m currently learning Swift. 
+- 🌱 I’m currently learning C++ and Swift. 
 - 📫 I'd love to connect! Please email me at r3dalal@uwaterloo.ca or connect with me on linkedln, https://www.linkedin.com/in/richadalal.
 - 😄 Pronouns: She/Her
 
